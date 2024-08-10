@@ -9,5 +9,7 @@ sudo dpkg -i *.deb
 
 # links del codigo fuente:
 https://github.com/franckey02/JaviKernel/releases/download/5.10/linux-5.10.223-javi_5.10.223-javi.orig.tar.gz
+
+
 https://archive.org/download/linux-5.10.223-javi_5.10.223-javi.orig.tar/linux-5.10.223-javi_5.10.223-javi.orig.tar.gz
 
