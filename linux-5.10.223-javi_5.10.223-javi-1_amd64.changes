@@ -1,0 +1,42 @@
+Format: 1.8
+Date: Sat, 10 Aug 2024 10:43:32 -0400
+Source: linux-5.10.223-javi
+Binary: linux-headers-5.10.223-javi linux-image-5.10.223-javi linux-libc-dev
+Architecture: source amd64
+Version: 5.10.223-javi-1
+Distribution: bookworm
+Urgency: low
+Maintainer: estheryj <estheryj@estheryj.avi>
+Changed-By: estheryj <estheryj@estheryj.avi>
+Description:
+ linux-headers-5.10.223-javi - Linux kernel headers for 5.10.223-javi on amd64
+ linux-image-5.10.223-javi - Linux kernel, version 5.10.223-javi
+ linux-libc-dev - Linux support headers for userspace development
+Changes:
+ linux-5.10.223-javi (5.10.223-javi-1) bookworm; urgency=low
+ .
+   * Custom built Linux kernel.
+Checksums-Sha1:
+ 563e8ca03c48296d6ba75f5b03b32e6fed1fb71e 1169 linux-5.10.223-javi_5.10.223-javi-1.dsc
+ 6445853d667d331f4deec2ba97ccf274e30e3a3a 190887784 linux-5.10.223-javi_5.10.223-javi.orig.tar.gz
+ 39faa4999d88ffebdd26cc6a71ca9f9f86f50f2e 242425 linux-5.10.223-javi_5.10.223-javi-1.diff.gz
+ 4b84cbd4f0c91c80802e6103b4d1bdad2fc776d7 5631 linux-5.10.223-javi_5.10.223-javi-1_amd64.buildinfo
+ 7f15ef0b8724e02900a45ede06dc261962aaa0ee 7812556 linux-headers-5.10.223-javi_5.10.223-javi-1_amd64.deb
+ fc29ac20de9ea983da2ef9fbfa66b4f705481900 11709676 linux-image-5.10.223-javi_5.10.223-javi-1_amd64.deb
+ 8b3e3bf958697b97ce9e216bd275799d07192d8f 1137344 linux-libc-dev_5.10.223-javi-1_amd64.deb
+Checksums-Sha256:
+ 616dea8fb37c2fd5b09d3f78829903f04921696477dc3e6a05546dcde06be3f4 1169 linux-5.10.223-javi_5.10.223-javi-1.dsc
+ e5ec89e1104b7e165bb525d015c504b3b06e9e22ca0f2b536e97513b83ec2bd2 190887784 linux-5.10.223-javi_5.10.223-javi.orig.tar.gz
+ 7be23d1d3f6d2ba8b64c52030e395045907d89c5f00427d9ab1e14d30aca6636 242425 linux-5.10.223-javi_5.10.223-javi-1.diff.gz
+ 40f2ae558729f8ba03f09325aa1f7bb78fec194c12b6660980e4980dbf8df7df 5631 linux-5.10.223-javi_5.10.223-javi-1_amd64.buildinfo
+ 6609525b088c9788f7dfc4e810a16d4f2828f23a823495b4b54cd16960e30943 7812556 linux-headers-5.10.223-javi_5.10.223-javi-1_amd64.deb
+ e8c0895554cc34c2fc76676e20e40c772fba9a78765f3c2eb62eeee8f59e7e7d 11709676 linux-image-5.10.223-javi_5.10.223-javi-1_amd64.deb
+ d6c0cce87dcf05d08d2aa78505a4a8486f96d3319d31acf372042f92837f51a5 1137344 linux-libc-dev_5.10.223-javi-1_amd64.deb
+Files:
+ 2efaf0e81d3c7a3ef560eaa350d7e5ef 1169 kernel optional linux-5.10.223-javi_5.10.223-javi-1.dsc
+ 637e9529ddc86ad762323897002f363f 190887784 kernel optional linux-5.10.223-javi_5.10.223-javi.orig.tar.gz
+ 151f28fcdb0c6b0dfb97c2b104ab09d8 242425 kernel optional linux-5.10.223-javi_5.10.223-javi-1.diff.gz
+ 943c4fd4025fb6ca41a10d4652c2b907 5631 kernel optional linux-5.10.223-javi_5.10.223-javi-1_amd64.buildinfo
+ 7467280d44fe07af025217d01e9e351a 7812556 kernel optional linux-headers-5.10.223-javi_5.10.223-javi-1_amd64.deb
+ ce83459a01d5fca03205275619e9b7a0 11709676 kernel optional linux-image-5.10.223-javi_5.10.223-javi-1_amd64.deb
+ ba0565ff6882a7011e5af67dfab0a4f8 1137344 devel optional linux-libc-dev_5.10.223-javi-1_amd64.deb
