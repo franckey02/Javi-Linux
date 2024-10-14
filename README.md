@@ -1,6 +1,6 @@
 # Javi Linux
 # kernel optimizado para  MAGALHAES MG-101A4 - ES10IS2 (CANAIMA) 
-Este repositorio contiene un kernel Linux personalizado y optimizado específicamente para las computadoras portátiles Canaimas Magalhães MG-101A4 o ES10IS2 (netbook Argentina) y laptops con procesador intel CELERON . El objetivo principal de este kernel es mejorar el rendimiento general del sistema, la estabilidad y la compatibilidad con el hardware, ofreciendo una experiencia de usuario más fluida y satisfactoria.
+Este repositorio contiene un kernel Linux personalizado y optimizado específicamente para las computadoras portátiles Canaimas Magalhães MG-101A4 o ES10IS2 (netbook Argentina). 
 ![Captura de pantalla de 2024-09-11 08-38-23](https://github.com/user-attachments/assets/6c456a84-b1de-4cb6-9d0b-669cfccd5b91)
 
 # Instalacion Version 6 del Kernel
